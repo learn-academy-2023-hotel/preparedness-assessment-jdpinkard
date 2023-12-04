@@ -1,0 +1,39 @@
+.entire-content {
+    width: 100vw;
+    height: 100vw;
+    background-image: url("./assets/background-image.jpeg");
+    background-size: cover;
+}
+
+.entire-content h1{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.input {
+    text-align: center;
+}
+
+.input Label {
+    color: white;
+    font-size: 35px;
+}
+
+.input Input {
+    font-size: 18px;
+    width: 50%;
+    margin: auto;
+    padding: 6px 12px;
+}
+
+.form {
+}
+
+.form Button {
+    background-color: #0dcaf0;
+    color: white;
+    width: 100px;
+    padding: 10px;
+    margin: 20px 10px 0px;
+}

@@ -20,7 +20,7 @@ const App = () => {
       <div className="form">
         <div className="input">
           <Label for="name">Enter your name</Label>
-          <Input type="text" onChange={handleChange} value={name} placeholder="Enter your name"/>
+          <Input type="text" onChange={handleChange} value={name} />
         </div>
         <Button onClick={toggle}>Click Me</Button>
         <Button onClick={reset}>Reset</Button>

@@ -10,15 +10,12 @@ Frontend Functionality Acceptance Criteria
     x The first button says Click Me
     x The second button says Reset
     x The user can enter their name in the input field
-    When the Click Me button is selected a modal appears
-
-
-    The modal has a header that greets the user with their name
-    The modal has a body with lorem ipsum filler text
-    The modal has a close button
-    The close button in modal closes the modal
-
-    The Reset button clears the input field
+    X When the Click Me button is selected a modal appears
+    X The modal has a header that greets the user with their name
+    X The modal has a body with lorem ipsum filler text
+    X The modal has a close button
+    X The close button in modal closes the modal
+    X The Reset button clears the input field
 
 Frontend Styling Acceptance Criteria
 
@@ -32,7 +29,9 @@ Frontend Styling Acceptance Criteria
     X The input field is centered on the page
     X There is 12px of padding on the left and the right of the input field
     X There is 6px of padding on the top and the bottom of the input field
-    The buttons are centered under the input field
+
+    X The buttons are centered under the input field
+
     X The background color of the buttons are #0dcaf0
     X The color of the text on the buttons is white
     X Button width is set to 100px

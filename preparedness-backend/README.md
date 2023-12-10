@@ -1,0 +1,1 @@
+For the dbdiagram, please go to https://dbdocs.io/justin.d.pinkard/Backend-Assessment

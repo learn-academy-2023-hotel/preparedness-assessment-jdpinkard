@@ -16,7 +16,7 @@ const App = () => {
 
   return (
     <div className="entire-content">
-      <h1>Preparedness Assessment Test</h1>
+      <h1>Preparedness Assessment Test 2</h1>
       <div className="form">
         <div className="input">
           <Label for="name">Enter your name</Label>
